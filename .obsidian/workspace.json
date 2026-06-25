@@ -22,31 +22,21 @@
             }
           },
           {
-            "id": "52642a26c1d554af",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          },
-          {
             "id": "14a48d81160bc3b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/协议帧格式.md",
+                "file": "entities/xbase.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "协议帧格式"
+              "title": "xbase"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/协议帧格式.md",
+                "file": "entities/xbase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "协议帧格式 的反向链接列表"
+              "title": "xbase 的反向链接列表"
             }
           },
           {
@@ -149,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/协议帧格式.md",
+                "file": "entities/xbase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "协议帧格式 的出链列表"
+              "title": "xbase 的出链列表"
             }
           },
           {
@@ -192,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/协议帧格式.md",
+                "file": "entities/xbase.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "协议帧格式 的大纲"
+              "title": "xbase 的大纲"
             }
           },
           {
@@ -258,13 +248,13 @@
   },
   "active": "14a48d81160bc3b0",
   "lastOpenFiles": [
-    "concepts/RpcDataLib 数据映射层.md",
-    "concepts/RpcIo 层.md",
-    "entities/xbase.md",
     "entities/librpc.md",
+    "entities/xbase.md",
     "entities/Obsidian.md",
     "entities/OpenClaw.md",
     "entities/Hermes Agent.md",
+    "concepts/RpcIo 层.md",
+    "concepts/RpcDataLib 数据映射层.md",
     "concepts/协议帧格式.md",
     "concepts/LLM Wiki.md",
     "synthesis/consolidation-2026-06-04.md",
