@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "c6ce550debbe8b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc34252d3d33f13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8081bebb39a93ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Claude Code.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b10a01fa70665019",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5f1eca1d897fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a64c15aea7df8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cea007d81e938e12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "994b68b3b9d9e4e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0259e710940fd043",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7e8cd1cfef1fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e93ae0a6484ed0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/Claude Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Claude Code 的反向链接列表"
+            }
+          },
+          {
+            "id": "44ff1d211d8e9c32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/Claude Code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Claude Code 的出链列表"
+            }
+          },
+          {
+            "id": "b338a15dc224db4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f14e512abe9ed56d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "12b34b55e347785b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/Claude Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Claude Code 的大纲"
+            }
+          },
+          {
+            "id": "0960977f679c14a3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "6fcf494e614d135d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 485.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f8081bebb39a93ac",
+  "lastOpenFiles": [
+    "concepts/协议帧格式.md",
+    "concepts/GID 消息寻址.md",
+    "concepts/GPIO 握手协议.md",
+    "concepts/LLM Wiki.md",
+    "concepts/RpcDataLib 数据映射层.md",
+    "concepts/RpcIo 层.md",
+    "concepts/RpcT 传输协议.md",
+    "concepts/SPI-RPC 架构.md",
+    "concepts/RAG.md",
+    "concepts/Claude Code.md",
+    "entities/Hermes Agent.md",
+    "entities/xbase.md",
+    "entities/OpenClaw.md",
+    "entities/Obsidian.md",
+    "entities/MCU 车身控制器.md",
+    "entities/librpc.md",
+    "synthesis/consolidation-2026-06-04.md",
+    "journal/Claude Code 实战-微信文章摘要.md",
+    "log.md.tmp.135141.bbaaec49a091",
+    "index.md.tmp.135141.ca882159ad39",
+    "concepts/Claude Code.md.tmp.135141.fcc9c8e23fe8",
+    "_raw/15 篇讲透 Claude Code｜完整版：从“终端同事”到企业级 Agentic Coding.md",
+    "index.md.tmp.135141.74b1237e1b9d",
+    "log.md.tmp.135141.692e580cf83b",
+    "journal/Claude Code 实战-微信文章摘要.md.tmp.135141.0af95083ecda",
+    "log.md.tmp.135141.003d39874059",
+    "synthesis/consolidation-2026-06-04.md.tmp.135141.e4afd1c0328d",
+    "concepts/RAG.md.tmp.135141.945dbb0eb3f4",
+    "entities/Obsidian.md.tmp.135141.72a57ee87627",
+    "hot.md",
+    "Andrej Karpathy.md",
+    "_raw/Hermes Agent + LLM Wiki + Obsidian 个人知识库.md",
+    "Clippings/Hermes Agent + LLM Wiki + Obsidian 个人知识库.md",
+    "2026-06-04.md",
+    "index.md",
+    "log.md"
+  ]
+}
