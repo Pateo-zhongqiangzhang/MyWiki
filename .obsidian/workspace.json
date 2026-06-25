@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entities/xbase.md",
+                "file": "concepts/RAG.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xbase"
+              "title": "RAG"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities/xbase.md",
+                "file": "concepts/RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "xbase 的反向链接列表"
+              "title": "RAG 的反向链接列表"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entities/xbase.md",
+                "file": "concepts/RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "xbase 的出链列表"
+              "title": "RAG 的出链列表"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities/xbase.md",
+                "file": "concepts/RAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "xbase 的大纲"
+              "title": "RAG 的大纲"
             }
           },
           {
@@ -248,15 +248,15 @@
   },
   "active": "14a48d81160bc3b0",
   "lastOpenFiles": [
-    "entities/librpc.md",
+    "concepts/LLM Wiki.md",
     "entities/xbase.md",
+    "entities/librpc.md",
     "entities/Obsidian.md",
     "entities/OpenClaw.md",
     "entities/Hermes Agent.md",
     "concepts/RpcIo 层.md",
     "concepts/RpcDataLib 数据映射层.md",
     "concepts/协议帧格式.md",
-    "concepts/LLM Wiki.md",
     "synthesis/consolidation-2026-06-04.md",
     "concepts/GPIO 握手协议.md",
     "concepts/RpcT 传输协议.md",
