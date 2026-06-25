@@ -236,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,25 +258,25 @@
   },
   "active": "14a48d81160bc3b0",
   "lastOpenFiles": [
+    "concepts/RpcDataLib 数据映射层.md",
+    "concepts/RpcIo 层.md",
+    "entities/xbase.md",
+    "entities/librpc.md",
+    "entities/Obsidian.md",
+    "entities/OpenClaw.md",
+    "entities/Hermes Agent.md",
+    "concepts/协议帧格式.md",
     "concepts/LLM Wiki.md",
     "synthesis/consolidation-2026-06-04.md",
     "concepts/GPIO 握手协议.md",
     "concepts/RpcT 传输协议.md",
     "concepts/RAG.md",
-    "concepts/RpcIo 层.md",
     "journal/Claude Code 实战-微信文章摘要.md",
     "欢迎.md",
     "concepts/Claude Code.md",
-    "concepts/协议帧格式.md",
     "concepts/GID 消息寻址.md",
-    "concepts/RpcDataLib 数据映射层.md",
     "concepts/SPI-RPC 架构.md",
-    "entities/Hermes Agent.md",
-    "entities/xbase.md",
-    "entities/OpenClaw.md",
-    "entities/Obsidian.md",
     "entities/MCU 车身控制器.md",
-    "entities/librpc.md",
     "log.md.tmp.135141.bbaaec49a091",
     "index.md.tmp.135141.ca882159ad39",
     "concepts/Claude Code.md.tmp.135141.fcc9c8e23fe8",
